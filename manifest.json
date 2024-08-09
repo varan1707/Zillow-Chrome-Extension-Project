@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Zillow to Google Maps",
+    "version": "1.0",
+    "description": "Open Zillow listings on Google Maps or Google Earth",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "zillow-extension-icon.png"
+    }
+  }
